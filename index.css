@@ -161,7 +161,7 @@ h1 {
     width: 80%;
     height: 300px;
     display: flex;
-    background-image: url(./DSC00114.jpg);
+    background-image: url(DSC00114.jpg);
     background-size: cover;
     margin: auto;
     margin-bottom: 20px;
@@ -178,7 +178,7 @@ h1 {
 .primera {
     width: 48%;
     display: flex;
-    background-image: url(./DSC00248.jpg);
+    background-image: url(DSC00248.jpg);
     background-size: cover;
     height: 400px;
 }
@@ -186,7 +186,7 @@ h1 {
 .segunda {
     width: 48%;
     display: flex;
-    background-image: url(./Fondo.jpg);
+    background-image: url(Fondo.jpg);
     background-size: cover;
     height: 400px;
 }
